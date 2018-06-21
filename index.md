@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+<font color="black" size="4"> About the Workshop </font> In conjunction with [<font color="darkblue">ACM SenSys 2018</font>](http://sensys.acm.org/2018/)
 
-You can use the [editor on GitHub](https://github.com/sensysblockchain/sensysblockchain.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Sensing technologies are being widely used in environments such as smart home, smart building, vehicular network, etc. Information collected from networked sensor systems are valuable if shared and tracked correctly. However, today’s sensing-cloud paradigm does not genetically support trust management and privacy preservation; it also does not encourage information sharing in multi-stakeholder settings through incentives and payment mechanisms. The emerging blockchain and other distributed ledger technologies offer a possibility to 1) ensure data protection, 2) monetize information exchange, and 3) reduce sharing and maintenance costs.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<font color="black" size="4"> Call for Papers </font> 
 
-### Markdown
+We solicit high quality position papers and research papers that address opportunities and challenges at the intersection of networked sensing/IoT and blockchain. We aim to set up a stage for industry and academia to share wins and lessons combining both disciplines. We welcome contributions to all relevant research on application, system, network and security. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Topics of interest include, but are not limited to:
+  <font size="3">
+  * Applications of blockchain in sensing and IoT environments<br/>
+  * New protocols and consensus algorithms providing fault-tolerance for sensing and IoT systems<br/>
+  * Sensor data-tampering protection using blockchain based systems<br/>
+  * Incentives and reward mechanisms for sharing sensing data<br/>
+  * Decentralized sensing data sharing and storage<br/>
+  * Smart contract design and implementation<br/>
+  * Resource optimization on compute, storage, energy and network<br/>
+  * Solutions to performance and scalability issues<br/>
+  </font><br/>
+<font color="black" size="4"> Important Dates </font> 
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+  Submission deadline: Aug 16, 2018
+  Notification of acceptance: Sep 1, 2018
+  Deadline for camera ready version: Sep 14, 2018
+  Workshop: Nov 4, 2018
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<font color="black" size="4"> Submission Guidelines </font> 
 
-### Jekyll Themes
+Submissions must be full papers, at most 6 single-spaced 8.5” x 11” pages, including figures and tables, but excluding references, two-column format, using 10-point type on 11-point (tight single-spaced) leading, with a maximum text block of 7” wide x 9” deep with an inter column spacing of .25”. Submissions may include as many pages as needed for references. Authors must make a good faith effort to anonymize their submissions. Papers that do not meet the size, formatting, and anonymization requirements will not be reviewed. We require each to be in Adobe Portable Document Format (PDF) and submitted through the conference submission system. Accepted submissions will be available on the ACM digital library at least one week before the conference.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sensysblockchain/sensysblockchain.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<font color="black" size="4"> Organizers </font> 
 
-### Support or Contact
+Program Chairs<br/>
+  [<font color="darkblue">Bhaskar Krishnamachari</font>](http://ceng.usc.edu/~bkrishna/) (University of Sounthern California)<br/>
+  Nairan Zhang (Facebook)<br/>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+TPC members<br/>
+TBD
