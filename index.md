@@ -7,7 +7,7 @@ Sensing technologies are being widely used in environments such as smart home, s
 We solicit high quality position papers and research papers that address opportunities and challenges at the intersection of networked sensing/IoT and blockchain. We aim to set up a stage for industry and academia to share wins and lessons combining both disciplines. We welcome contributions to all relevant research on application, system, network and security. 
 
 Topics of interest include, but are not limited to:
-  <font size="3">
+  <font size="2.75">
   * Applications of blockchain in sensing and IoT environments<br/>
   * New protocols and consensus algorithms providing fault-tolerance for sensing and IoT systems<br/>
   * Sensor data-tampering protection using blockchain based systems<br/>
