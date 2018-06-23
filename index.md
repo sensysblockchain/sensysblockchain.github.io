@@ -28,7 +28,7 @@ Topics of interest include, but are not limited to:
 
 <font color="black" size="4"> Submission Guidelines </font> 
 
-Submissions must be full papers, at most 6 single-spaced 8.5” x 11” pages, including figures and tables, but excluding references, two-column format, using 10-point type on 11-point (tight single-spaced) leading, with a maximum text block of 7” wide x 9” deep with an inter column spacing of .25”. Submissions may include as many pages as needed for references. Authors must make a good faith effort to anonymize their submissions. Papers that do not meet the size, formatting, and anonymization requirements will not be reviewed. We require each to be in Adobe Portable Document Format (PDF) and submitted through the conference submission system. Accepted submissions will be available on the ACM digital library at least one week before the conference.
+Submissions must be full papers, at most 6 pages, including figures, tables and references, in two-column format, using a minimum of 10-pt font. Submitted papers must not be under review or published elsewhere. The review of all papers will follow the general single-blind policy. We require each to be in Adobe Portable Document Format (PDF) with [ACM templates](https://www.acm.org/publications/proceedings-template) ([submit notes](http://sensys.acm.org/2018/resources/documents/HowTo.pdf)) and submitted through the [submission site](https://easychair.org/conferences/?conf=bcns2018). Accepted submissions will be available in the ACM digital library on the first day of the conference.
 
 <font color="black" size="4"> Organizers </font> 
 
