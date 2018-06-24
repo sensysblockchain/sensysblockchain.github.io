@@ -19,8 +19,6 @@ Topics of interest include, but are not limited to:
   </font><br/>
   
 <font color="black" size="4"> Important Dates </font> 
-
-<!-- background: #454545 -->
 ```markdown
   Submission deadline: Aug 16, 2018
   Notification of acceptance: Sep 1, 2018
