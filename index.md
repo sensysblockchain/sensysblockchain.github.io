@@ -30,7 +30,7 @@ Topics of interest include, but are not limited to:
 
 Submissions must be full papers, at most 6 pages, including figures, tables and references, in two-column format, using a minimum of 10-pt font. Submitted papers must not be under review or published elsewhere. The review of all papers will follow the general single-blind policy. We require each to be in Adobe Portable Document Format (PDF) with [<font color="darkblue">ACM templates</font>](https://www.acm.org/publications/proceedings-template) ([<font color="darkblue">submit notes</font>](http://sensys.acm.org/2018/resources/documents/HowTo.pdf)) and submitted through the [submission site](https://easychair.org/conferences/?conf=bcns2018). Accepted submissions will be available in the ACM digital library on the first day of the conference.
 
-For questions you have, please send email to: sensys-bcns2018@easychair.org
+For questions you have, please send email to: sensys-bcns2018_AT_easychair.org
 
 <font color="black" size="4"> Organizers </font> 
 
