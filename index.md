@@ -20,8 +20,8 @@ Topics of interest include, but are not limited to:
   
 <font color="black" size="4"> Important Dates </font> 
 ```markdown
-  Submission deadline: Aug 16, 2018
-  Notification of acceptance: Sep 1, 2018
+  Submission deadline: Aug 26, 2018
+  Notification of acceptance: Sep 3, 2018
   Deadline for camera ready version: Sep 14, 2018
   Workshop: Nov 4, 2018
 ```
