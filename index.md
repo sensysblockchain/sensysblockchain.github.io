@@ -1,4 +1,5 @@
-<font color="black" size="4"> Call for Papers </font> In conjunction with [<font color="darkblue">ACM SenSys 2018</font>](http://sensys.acm.org/2018/)
+<font color="black" size="4"> Call for Papers </font><br/> 
+In conjunction with [<font color="darkblue">ACM SenSys 2018</font>](http://sensys.acm.org/2018/)
 
 Networked sensor systems as a key component of internet of things (IoT) have been widely used in various environments such as smart home, smart building, vehicular network, wearable computing, robotics systems, industrial control systems, etc. They capture human and physical-world dynamics and feed the data into large-scale analytical backends. Today’s cloud-centric paradigm, however, does not genetically support trust management and privacy preservation; it also does not encourage information sharing in multi-stakeholder settings through incentives and payment mechanisms. As a result, complementary technologies that can offer to ensure data protection, incentivize information exchange, and reduce sharing and maintenance costs are highly desired.
 
