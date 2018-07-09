@@ -1,21 +1,29 @@
-<font color="black" size="4"> About the Workshop </font> In conjunction with [<font color="darkblue">ACM SenSys 2018</font>](http://sensys.acm.org/2018/)
+<font color="black" size="4"> Call for Papers </font> In conjunction with [<font color="darkblue">ACM SenSys 2018</font>](http://sensys.acm.org/2018/)
 
-Sensing technologies are being widely used in environments such as smart home, smart building, vehicular network, etc. Information collected from networked sensor systems are valuable if shared and tracked correctly. However, today’s sensing-cloud paradigm does not genetically support trust management and privacy preservation; it also does not encourage information sharing in multi-stakeholder settings through incentives and payment mechanisms. The emerging blockchain and other distributed ledger technologies offer a possibility to 1) ensure data protection, 2) monetize information exchange, and 3) reduce sharing and maintenance costs.
+Networked sensor systems as a key component of internet of things (IoT) have been widely used in various environments such as smart home, smart building, vehicular network, wearable computing, robotics systems, industrial control systems, etc. They capture human and physical-world dynamics and feed the data into large-scale analytical backends. Today’s cloud-centric paradigm, however, does not genetically support trust management and privacy preservation; it also does not encourage information sharing in multi-stakeholder settings through incentives and payment mechanisms. As a result, complementary technologies that can offer to ensure data protection, incentivize information exchange, and reduce sharing and maintenance costs are highly desired.
 
-<font color="black" size="4"> Call for Papers </font> 
+We have seen the increasing interest in tackling such problems by using emerging blockchain and other distributed ledger technologies. BlockSys’18 aims to set up a stage for industry and academia to share wins and lessons: we solicit high quality research and position papers that address opportunities and challenges at the intersection of networked sensing/IoT and blockchain. We also welcome on-going work, demos and tutorials. Topics of interest include, but are not limited to:
 
-We solicit high quality position papers and research papers that address opportunities and challenges at the intersection of networked sensing/IoT and blockchain. We aim to set up a stage for industry and academia to share wins and lessons combining both disciplines. We welcome contributions to all relevant research on application, system, network and security. 
-
-Topics of interest include, but are not limited to:
   <font size="2.75">
-  * Applications of blockchain in sensing and IoT environments<br/>
+  * Blockchain in networked sensor system and other IoT environments<br/>
+  * Blockchain in 5G systems<br/>
+  * Blockchain in smart cities<br/>
+  * Blockchain in edge computing<br/>
+  * Blockchain in mobile systems and general ad-hoc networks<br/>
+  * Blockchain in vehicular networks<br/>
+  * Blockchain in intelligent supply chain<br/>
   * New protocols and consensus algorithms providing fault-tolerance for sensing and IoT systems<br/>
-  * Sensor data-tampering protection using blockchain based systems<br/>
+  * Blockchain-based sensor data-tampering protection<br/>
+  * Security issues of using blockchain<br/>
   * Incentives and reward mechanisms for sharing sensing data<br/>
-  * Decentralized sensing data sharing and storage<br/>
-  * Smart contract design and implementation<br/>
-  * Resource optimization on compute, storage, energy and network<br/>
-  * Solutions to performance and scalability issues<br/>
+  * Blockchain in data sharing, participatory sensing, and crowd-sourcing<br/>
+  * Smart contract design and implementation in sensing systems<br/>
+  * Formal verification on smart contracts in sensing systems<br/>
+  * Decentralized sensing data storage<br/>
+  * Decentralized sensing data transmission<br/> 
+  * Performance issues of using blockchain<br/>
+  * Scalability issues of using blockchain<br/>
+  * Using blockchain in resource/energy-constraint systems<br/>
   </font><br/>
   
 <font color="black" size="4"> Important Dates </font> 
