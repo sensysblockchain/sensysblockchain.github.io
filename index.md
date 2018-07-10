@@ -16,7 +16,7 @@ We have seen the increasing interest in tackling such problems by using emerging
   * Blockchain-based sensor data-tampering protection<br/>
   * Security issues of using blockchain<br/>
   * Incentives and reward mechanisms for sharing sensing data<br/>
-  * Blockchain in data sharing, participatory sensing, and crowd-sourcing<br/>
+  * Blockchain in participatory sensing and crowd-sourcing<br/>
   * Smart contract design and implementation in sensing systems<br/>
   * Formal verification on smart contracts in sensing systems<br/>
   * Decentralized sensing data storage<br/>
