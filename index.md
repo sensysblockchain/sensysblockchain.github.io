@@ -1,4 +1,4 @@
-In conjunction with [ACM SenSys 2018](http://sensys.acm.org/2018/)
+In conjunction with [<font color="darkblue">ACM SenSys 2018</font>](http://sensys.acm.org/2018/)
 
 <font color="black" size="4"> Call for Papers </font>
 
