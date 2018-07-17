@@ -59,7 +59,7 @@ TPC members<br/>
   [<font color="darkblue">Pan Hui</font>](https://www.cse.ust.hk/~panhui/) (HKUST & University of Helsinki)<br/> 
   [<font color="darkblue">Raja Jurdak</font>](https://people.csiro.au/J/R/Raja-Jurdak) (CSIRO)<br/>
   [<font color="darkblue">Robert Deng</font>](http://www.mysmu.edu/faculty/robertdeng/) (Singapore Management University)<br/> 
-	[<font color="darkblue">Serguei Popov</font>](https://blog.iota.org/@serguei.popov) (IOTA Foundation)<br/>	
+  [<font color="darkblue">Serguei Popov</font>](https://blog.iota.org/@serguei.popov) (IOTA Foundation)<br/>	
   Xinxin Fan (IoTeX)<br/>
   [<font color="darkblue">Yonggang Wen</font>](http://www.ntu.edu.sg/home/ygwen/) (Nanyang Technological University)<br/>
   Zhiyuan Jiang (Tsinghua University)<br/>
