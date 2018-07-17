@@ -54,12 +54,12 @@ TPC members<br/>
   [<font color="darkblue">Joshua Ellul</font>](http://staff.um.edu.mt/joshua.ellul/) (University of Malta)<br/>
   [<font color="darkblue">Juan Corchado</font>](https://bisite.usal.es/en/corchado) (University of Salamanca)<br/>
   [<font color="darkblue">Kui Ren</font>](https://www.acsu.buffalo.edu/~kuiren/) (State University of New York at Buffalo)<br/>
-  [<font color="darkblue">Lav Varshney</font>](http://www.varshney.csl.illinois.edu/) (University of Illinois at Urbana-Champaign)<br/>  
-  [<font color="darkblue">Liang Cheng</font>](http://liangcheng.info/) (Lehigh University)<br/>    
-  [<font color="darkblue">Pan Hui</font>](https://www.cse.ust.hk/~panhui/) (HKUST & University of Helsinki)<br/> 
+  [<font color="darkblue">Lav Varshney</font>](http://www.varshney.csl.illinois.edu/) (University of Illinois at Urbana-Champaign)<br/>
+  [<font color="darkblue">Liang Cheng</font>](http://liangcheng.info/) (Lehigh University)<br/>
+  [<font color="darkblue">Pan Hui</font>](https://www.cse.ust.hk/~panhui/) (HKUST & University of Helsinki)<br/>
   [<font color="darkblue">Raja Jurdak</font>](https://people.csiro.au/J/R/Raja-Jurdak) (CSIRO)<br/>
   [<font color="darkblue">Robert Deng</font>](http://www.mysmu.edu/faculty/robertdeng/) (Singapore Management University)<br/> 
-  [<font color="darkblue">Serguei Popov</font>](https://blog.iota.org/@serguei.popov) (IOTA Foundation)<br/>	
+  [<font color="darkblue">Serguei Popov</font>](https://blog.iota.org/@serguei.popov) (IOTA Foundation)<br/>
   Xinxin Fan (IoTeX)<br/>
   [<font color="darkblue">Yonggang Wen</font>](http://www.ntu.edu.sg/home/ygwen/) (Nanyang Technological University)<br/>
   Zhiyuan Jiang (Tsinghua University)<br/>
