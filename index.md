@@ -43,14 +43,13 @@ Submissions must be full papers, at most 6 pages, including figures, tables and 
 For questions you have, please send email to: blocksys18inform_AT_gmail.com
 
 <font color="black" size="4"> Organizers </font> 
-
-Program Chairs<br/>
-  [<font color="darkblue">Bhaskar Krishnamachari</font>](http://ceng.usc.edu/~bkrishna/) (University of Sounthern California)<br/>
-  Nairan Zhang (Facebook)<br/>
-  
 SenSys Workshop Chairs<br/>
   [<font color="darkblue">Rasit Eskicioglu</font>](http://www.cs.umanitoba.ca/~rasit/) (University of Manitoba)<br/>
   [<font color="darkblue">Yong Li</font>](http://www.tsinghua.edu.cn/publish/eeen/3784/2014/20140822095535708666236/20140822095535708666236_.html) (Tsinghua University)<br/>
+  
+Program Chairs<br/>
+  [<font color="darkblue">Bhaskar Krishnamachari</font>](http://ceng.usc.edu/~bkrishna/) (University of Sounthern California)<br/>
+  Nairan Zhang (Facebook)<br/>
 
 TPC members<br/>
   [<font color="darkblue">Ashwin Ashok</font>](https://grid.cs.gsu.edu/~aashok/) (Georgia State University)<br/>
