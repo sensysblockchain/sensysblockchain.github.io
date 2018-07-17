@@ -52,7 +52,7 @@ TPC members<br/>
   David Huseby (The Linux Foundation)<br/>
   [<font color="darkblue">Hong-Linh Truong</font>](http://www.infosys.tuwien.ac.at/staff/truong/) (Vienna University of Technology)<br/>
   [<font color="darkblue">Joshua Ellul</font>](http://staff.um.edu.mt/joshua.ellul/) (University of Malta)<br/>
-  [<font color="darkblue">Juan Corchado</font>](https://bisite.usal.es/en/corchado) (University of Salamanca)<br/>
+  [<font color="darkblue">Juan Manuel Corchado</font>](https://bisite.usal.es/en/corchado) (University of Salamanca)<br/>
   [<font color="darkblue">Kui Ren</font>](https://www.acsu.buffalo.edu/~kuiren/) (State University of New York at Buffalo)<br/>
   [<font color="darkblue">Lav Varshney</font>](http://www.varshney.csl.illinois.edu/) (University of Illinois at Urbana-Champaign)<br/>
   [<font color="darkblue">Liang Cheng</font>](http://liangcheng.info/) (Lehigh University)<br/>
