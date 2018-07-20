@@ -55,6 +55,7 @@ TPC members<br/>
   [<font color="darkblue">Ashwin Ashok</font>](https://grid.cs.gsu.edu/~aashok/) (Georgia State University)<br/>
   [<font color="darkblue">Biplab Sikdar</font>](https://www.ece.nus.edu.sg/stfpage/bsikdar/) (National University of Singapore)<br/>
   David Huseby (The Linux Foundation)<br/>
+  [<font color="darkblue">Gowri Sankar Ramachandran</font>](http://www.gowrisankar.net/) (University of Sounthern California)<br/>
   [<font color="darkblue">Hong-Linh Truong</font>](http://www.infosys.tuwien.ac.at/staff/truong/) (Vienna University of Technology)<br/>
   [<font color="darkblue">Joshua Ellul</font>](http://staff.um.edu.mt/joshua.ellul/) (University of Malta)<br/>
   [<font color="darkblue">Juan Manuel Corchado</font>](https://bisite.usal.es/en/corchado) (University of Salamanca)<br/>
