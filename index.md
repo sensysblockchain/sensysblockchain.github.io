@@ -48,14 +48,14 @@ SenSys Workshop Chairs<br/>
   [<font color="darkblue">Yong Li</font>](http://www.tsinghua.edu.cn/publish/eeen/3784/2014/20140822095535708666236/20140822095535708666236_.html) (Tsinghua University)<br/>
   
 Program Chairs<br/>
-  [<font color="darkblue">Bhaskar Krishnamachari</font>](http://ceng.usc.edu/~bkrishna/) (University of Sounthern California)<br/>
+  [<font color="darkblue">Bhaskar Krishnamachari</font>](http://ceng.usc.edu/~bkrishna/) (University of Southern California)<br/>
   Nairan Zhang (Facebook)<br/>
 
 TPC members<br/>
   [<font color="darkblue">Ashwin Ashok</font>](https://grid.cs.gsu.edu/~aashok/) (Georgia State University)<br/>
   [<font color="darkblue">Biplab Sikdar</font>](https://www.ece.nus.edu.sg/stfpage/bsikdar/) (National University of Singapore)<br/>
   David Huseby (The Linux Foundation)<br/>
-  [<font color="darkblue">Gowri Sankar Ramachandran</font>](http://www.gowrisankar.net/) (University of Sounthern California)<br/>
+  [<font color="darkblue">Gowri Sankar Ramachandran</font>](http://www.gowrisankar.net/) (University of Southern California)<br/>
   [<font color="darkblue">Hong-Linh Truong</font>](http://www.infosys.tuwien.ac.at/staff/truong/) (Vienna University of Technology)<br/>
   [<font color="darkblue">Joshua Ellul</font>](http://staff.um.edu.mt/joshua.ellul/) (University of Malta)<br/>
   [<font color="darkblue">Juan Manuel Corchado</font>](https://bisite.usal.es/en/corchado) (University of Salamanca)<br/>
