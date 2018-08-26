@@ -30,15 +30,15 @@ We have seen the increasing interest in tackling such problems by using emerging
   
 <font color="black" size="4"> Important Dates </font> 
 ```markdown
-  Submission deadline: Aug 26, 2018
-  Notification of acceptance: Sep 3, 2018
-  Deadline for camera ready version: Sep 14, 2018
+  Submission deadline: Sep 14, 2018, 23:59 AOE (Extended)
+  Notification of acceptance: Sep 24, 2018
+  Deadline for camera ready version: Sep 30, 2018
   Workshop: Nov 4, 2018
 ```
 
 <font color="black" size="4"> Submission Guidelines </font> 
 
-Submissions must be full papers, at most 6 pages, including figures, tables and references, in two-column format, using a minimum of 10-pt font. Submitted papers must not be under review or published elsewhere. The review of all papers will follow the general single-blind policy. We require each to be in Adobe Portable Document Format (PDF) with [<font color="darkblue">ACM templates</font>](https://www.acm.org/publications/proceedings-template) ([<font color="darkblue">submit notes</font>](http://sensys.acm.org/2018/resources/documents/HowTo.pdf)) and submitted through the [submission site](https://blocksys18.hotcrp.com/). Accepted submissions will be available in the ACM digital library on the first day of the conference.
+Submissions must be full papers, at most 6 pages, or demo/poster abstracts (2 pages), including figures, tables and references, in two-column format, using a minimum of 10-pt font. Submitted papers must not be under review or published elsewhere. The review of all papers will follow the general single-blind policy. We require each to be in Adobe Portable Document Format (PDF) with [<font color="darkblue">ACM templates</font>](https://www.acm.org/publications/proceedings-template) ([<font color="darkblue">submit notes</font>](http://sensys.acm.org/2018/resources/documents/HowTo.pdf)) and submitted through the [submission site](https://blocksys18.hotcrp.com/). Accepted submissions will be available in the ACM digital library on the first day of the conference.
 
 For questions you have, please send email to: blocksys18inform_AT_gmail.com
 
