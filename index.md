@@ -11,24 +11,24 @@ TBA
 <font color="red" size="4">Invited speaker: </font> Wei Cai, Assistant Professor at The Chinese University of Hong Kong<br/>
 <font color="red" size="4">Invited speaker: </font> Wenhao Li, CEO at TrustKernel<br/>
 
-<font color="red" size="4">[Paper] Distributed Ledger Technology and the Internet of Things: A Feasibility Study </font>
+<font color="black" size="3">[Paper] Distributed Ledger Technology and the Internet of Things: A Feasibility Study </font>
 Atis Elsts (University of Bristol), Efstathios Mitskas (University of Bristol), George Oikonomou (University of Bristol)
 
 10:40-11:00 tea break
 
 11:00-12:00 Talks
 
-Paper: FAST: A MapReduce Consensus for High Performance Blockchains<br/>
-Nida Khan (University of Luxembourg)<br/>
-Paper: BlockPro: Blockchain based Data Provenance and Integrity for Secure IoT Environments<br/>
+<font color="black" size="3">[Paper] FAST: A MapReduce Consensus for High Performance Blockchains </font>
+Nida Khan (University of Luxembourg)
+<font color="black" size="3">[Paper] BlockPro: Blockchain based Data Provenance and Integrity for Secure IoT Environments </font>
 Uzair Javaid (National University of Singapore), Muhammad Naveed Aman (National University of Singapore), Biplab Sikdar (National University of Singapore)
 
 12:00-13:30 lunch
 
 13:30-14:30 Talks
-Paper: Blockchain framework for IoT data quality via edge computing<br/>
-Roberto Casado-Vara (University of Salamanca), Fernando de la Prieta (University of Salamanca), Javier Prieto (University of Salamanca), Juan M. Corchado (University of Salamanca)<br/>
-Paper: RDV: An Alternative To Proof-of-Work And A Real Decentralized Consensus For Blockchain<br/>
+<font color="black" size="3">[Paper] Blockchain framework for IoT data quality via edge computing </font>
+Roberto Casado-Vara (University of Salamanca), Fernando de la Prieta (University of Salamanca), Javier Prieto (University of Salamanca), Juan M. Corchado (University of Salamanca)
+<font color="black" size="3">[Paper] RDV: An Alternative To Proof-of-Work And A Real Decentralized Consensus For Blockchain </font>
 Siamak Solat (Engie Lab France)
 
 <font color="black" size="4"> Call for Papers </font>
