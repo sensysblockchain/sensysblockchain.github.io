@@ -1,28 +1,33 @@
-In conjunction with [<font color="darkblue">ACM SenSys 2018</font>](http://sensys.acm.org/2018/)
+In conjunction with [<font color="darkblue">ACM SenSys 2018</font>](http://sensys.acm.org/2018/)<br/>
+
+
+<font color="black" size="4"> Best paper </font>
+TBA
 
 <font color="black" size="4"> Program </font>
 
 9:30-10:40 Talks
 
-Invited speaker: Wei Cai, Assistant Professor at The Chinese University of Hong Kong
-Invited speaker: Wenhao Li, CEO at TrustKernel
-Paper: Distributed Ledger Technology and the Internet of Things: A Feasibility Study
+Invited speaker: Wei Cai, Assistant Professor at The Chinese University of Hong Kong<br/>
+Invited speaker: Wenhao Li, CEO at TrustKernel<br/>
+Paper: Distributed Ledger Technology and the Internet of Things: A Feasibility Study<br/>
 Atis Elsts (University of Bristol), Efstathios Mitskas (University of Bristol), George Oikonomou (University of Bristol)
 
 10:40-11:00 tea break
 
 11:00-12:00 Talks
-Paper: FAST: A MapReduce Consensus for High Performance Blockchains
-Nida Khan (University of Luxembourg)
-Paper: BlockPro: Blockchain based Data Provenance and Integrity for Secure IoT Environments
+
+Paper: FAST: A MapReduce Consensus for High Performance Blockchains<br/>
+Nida Khan (University of Luxembourg)<br/>
+Paper: BlockPro: Blockchain based Data Provenance and Integrity for Secure IoT Environments<br/>
 Uzair Javaid (National University of Singapore), Muhammad Naveed Aman (National University of Singapore), Biplab Sikdar (National University of Singapore)
 
 12:00-13:30 lunch
 
 13:30-14:30 Talks
-Paper: Blockchain framework for IoT data quality via edge computing
-Roberto Casado-Vara (University of Salamanca), Fernando de la Prieta (University of Salamanca), Javier Prieto (University of Salamanca), Juan M. Corchado (University of Salamanca)
-Paper: RDV: An Alternative To Proof-of-Work And A Real Decentralized Consensus For Blockchain
+Paper: Blockchain framework for IoT data quality via edge computing<br/>
+Roberto Casado-Vara (University of Salamanca), Fernando de la Prieta (University of Salamanca), Javier Prieto (University of Salamanca), Juan M. Corchado (University of Salamanca)<br/>
+Paper: RDV: An Alternative To Proof-of-Work And A Real Decentralized Consensus For Blockchain<br/>
 Siamak Solat (Engie Lab France)
 
 <font color="black" size="4"> Call for Papers </font>
