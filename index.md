@@ -26,6 +26,7 @@ Uzair Javaid (National University of Singapore), Muhammad Naveed Aman (National 
 12:00-13:30 lunch
 
 13:30-14:30 Talks
+
 <font color="black" size="3">[Paper] Blockchain framework for IoT data quality via edge computing </font>
 Roberto Casado-Vara (University of Salamanca), Fernando de la Prieta (University of Salamanca), Javier Prieto (University of Salamanca), Juan M. Corchado (University of Salamanca)
 <font color="black" size="3">[Paper] RDV: An Alternative To Proof-of-Work And A Real Decentralized Consensus For Blockchain </font>
