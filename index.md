@@ -22,7 +22,7 @@ Nida Khan (University of Luxembourg)
 
 12:00-13:30 lunch
 
-13:30-15:20 talks and closing remarks
+13:30-15:20 talks
 
 <font color="black" size="3">[Paper] Distributed Ledger Technology and the Internet of Things: A Feasibility Study </font>
 Atis Elsts (University of Bristol), Efstathios Mitskas (University of Bristol), George Oikonomou (University of Bristol)
@@ -30,6 +30,8 @@ Atis Elsts (University of Bristol), Efstathios Mitskas (University of Bristol), 
 Roberto Casado-Vara (University of Salamanca), Fernando de la Prieta (University of Salamanca), Javier Prieto (University of Salamanca), Juan M. Corchado (University of Salamanca)
 <font color="black" size="3">[Paper] RDV: An Alternative To Proof-of-Work And A Real Decentralized Consensus For Blockchain </font>
 Siamak Solat (Engie Lab France)
+
+closing remarks
 
 15:20-15:40 tea break
 
