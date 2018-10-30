@@ -11,7 +11,7 @@ TBA
 <font color="red" size="4">Invited speaker: </font> Wei Cai, Assistant Professor at The Chinese University of Hong Kong<br/>
 <font color="red" size="4">Invited speaker: </font> Wenhao Li, CEO at TrustKernel<br/>
 
-Paper: Distributed Ledger Technology and the Internet of Things: A Feasibility Study<br/>
+<font color="red" size="4">[Paper] Distributed Ledger Technology and the Internet of Things: A Feasibility Study </font>
 Atis Elsts (University of Bristol), Efstathios Mitskas (University of Bristol), George Oikonomou (University of Bristol)
 
 10:40-11:00 tea break
