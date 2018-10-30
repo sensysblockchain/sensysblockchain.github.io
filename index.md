@@ -6,31 +6,32 @@ TBA
 
 <font color="black" size="4"> Program </font>
 
-9:30-10:40 Talks
+9:30-10:40 welcom and talks
 
-<font color="red" size="4">Invited speaker: </font> Wei Cai, Assistant Professor at The Chinese University of Hong Kong<br/>
-<font color="red" size="4">Invited speaker: </font> Wenhao Li, CEO at TrustKernel<br/>
-
-<font color="black" size="3">[Paper] Distributed Ledger Technology and the Internet of Things: A Feasibility Study </font>
-Atis Elsts (University of Bristol), Efstathios Mitskas (University of Bristol), George Oikonomou (University of Bristol)
+<font color="red" size="4">Keynote Speech: </font> Wei Cai, Assistant Professor at The Chinese University of Hong Kong<br/>
+<font color="red" size="4">Keynote Speech: </font> Wenhao Li, CEO at TrustKernel<br/>
 
 10:40-11:00 tea break
 
-11:00-12:00 Talks
+11:00-12:00 talks
 
-<font color="black" size="3">[Paper] FAST: A MapReduce Consensus for High Performance Blockchains </font>
-Nida Khan (University of Luxembourg)
 <font color="black" size="3">[Paper] BlockPro: Blockchain based Data Provenance and Integrity for Secure IoT Environments </font>
 Uzair Javaid (National University of Singapore), Muhammad Naveed Aman (National University of Singapore), Biplab Sikdar (National University of Singapore)
+<font color="black" size="3">[Paper] FAST: A MapReduce Consensus for High Performance Blockchains </font>
+Nida Khan (University of Luxembourg)
 
 12:00-13:30 lunch
 
-13:30-14:30 Talks
+13:30-15:20 talks and closing remarks
 
+<font color="black" size="3">[Paper] Distributed Ledger Technology and the Internet of Things: A Feasibility Study </font>
+Atis Elsts (University of Bristol), Efstathios Mitskas (University of Bristol), George Oikonomou (University of Bristol)
 <font color="black" size="3">[Paper] Blockchain framework for IoT data quality via edge computing </font>
 Roberto Casado-Vara (University of Salamanca), Fernando de la Prieta (University of Salamanca), Javier Prieto (University of Salamanca), Juan M. Corchado (University of Salamanca)
 <font color="black" size="3">[Paper] RDV: An Alternative To Proof-of-Work And A Real Decentralized Consensus For Blockchain </font>
 Siamak Solat (Engie Lab France)
+
+15:20-15:40 tea break
 
 <font color="black" size="4"> Call for Papers </font>
 
