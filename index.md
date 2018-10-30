@@ -8,7 +8,7 @@ TBA
 
 9:30-10:40 welcom and talks
 
-<font color="red" size="4">Keynote Speech: </font> Wei Cai, Assistant Professor at The Chinese University of Hong Kong<br/>
+<font color="red" size="4">Keynote Speech: </font> Wei Cai, Assistant Professor at The Chinese University of Hong Kong, Shenzhen<br/>
 <font color="red" size="4">Keynote Speech: </font> Wenhao Li, CEO at TrustKernel<br/>
 
 10:40-11:00 tea break
