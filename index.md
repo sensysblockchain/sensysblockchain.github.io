@@ -1,4 +1,4 @@
-In conjunction with [<font color="darkblue">ACM SenSys 2018</font>](http://sensys.acm.org/2018/)<br/>
+In conjunction with [<font color="darkblue">ACM SenSys 2018</font>](http://sensys.acm.org/2018/workshops/)<br/>
 
 
 <font color="black" size="4"> Best paper </font>
