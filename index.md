@@ -1,5 +1,30 @@
 In conjunction with [<font color="darkblue">ACM SenSys 2018</font>](http://sensys.acm.org/2018/)
 
+<font color="black" size="4"> Program </font>
+
+9:30-10:40 Talks
+
+Invited speaker: Wei Cai, Assistant Professor at The Chinese University of Hong Kong
+Invited speaker: Wenhao Li, CEO at TrustKernel
+Paper: Distributed Ledger Technology and the Internet of Things: A Feasibility Study
+Atis Elsts (University of Bristol), Efstathios Mitskas (University of Bristol), George Oikonomou (University of Bristol)
+
+10:40-11:00 tea break
+
+11:00-12:00 Talks
+Paper: FAST: A MapReduce Consensus for High Performance Blockchains
+Nida Khan (University of Luxembourg)
+Paper: BlockPro: Blockchain based Data Provenance and Integrity for Secure IoT Environments
+Uzair Javaid (National University of Singapore), Muhammad Naveed Aman (National University of Singapore), Biplab Sikdar (National University of Singapore)
+
+12:00-13:30 lunch
+
+13:30-14:30 Talks
+Paper: Blockchain framework for IoT data quality via edge computing
+Roberto Casado-Vara (University of Salamanca), Fernando de la Prieta (University of Salamanca), Javier Prieto (University of Salamanca), Juan M. Corchado (University of Salamanca)
+Paper: RDV: An Alternative To Proof-of-Work And A Real Decentralized Consensus For Blockchain
+Siamak Solat (Engie Lab France)
+
 <font color="black" size="4"> Call for Papers </font>
 
 Networked sensor systems as a key component of internet of things (IoT) have been widely used in various environments such as smart home, smart building, vehicular network, wearable computing, robotics systems, industrial control systems, etc. They capture human and physical-world dynamics and feed the data into large-scale analytical backends. Today’s cloud-centric paradigm, however, does not genetically support trust management and privacy preservation; it also does not encourage information sharing in multi-stakeholder settings through incentives and payment mechanisms. As a result, complementary technologies that can offer to ensure data protection, incentivize information exchange, and reduce sharing and maintenance costs are highly desired.
