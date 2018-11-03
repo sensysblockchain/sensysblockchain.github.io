@@ -6,7 +6,7 @@ TBA
 
 <font color="black" size="4"> Program </font>
 
-9:30-10:40 welcom and talks
+9:30-10:40 welcome and talks
 
 <font color="red" size="4">Keynote Speech: </font> Wei Cai, Assistant Professor at The Chinese University of Hong Kong, Shenzhen<br/>
 <font color="red" size="4">Keynote Speech: </font> Wenhao Li, CEO at TrustKernel<br/>
