@@ -1,9 +1,9 @@
 In conjunction with [<font color="darkblue">ACM SenSys 2018</font>](http://sensys.acm.org/2018/workshops/)<br/>
 
 
-<font color="black" size="4"> Best paper </font>
+<font color="black" size="4"> Best paper </font><br/>
 
-<font color="black" size="3">Distributed Ledger Technology and the Internet of Things: A Feasibility Study </font>
+Distributed Ledger Technology and the Internet of Things: A Feasibility Study<br/>
 Atis Elsts (University of Bristol), Efstathios Mitskas (University of Bristol), George Oikonomou (University of Bristol)
 
 <font color="black" size="4"> Program </font>
