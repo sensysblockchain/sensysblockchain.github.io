@@ -31,42 +31,20 @@ We have seen the increasing interest in tackling such problems by using emerging
   
 <font color="black" size="4"> Important Dates </font> 
 ```markdown
-  Submission deadline: Sep 14, 2018, 23:59 AOE (Extended)
-  Notification of acceptance: Sep 24, 2018
-  Deadline for camera ready version: Sep 30, 2018
-  Workshop: Nov 4, 2018
+  Submission deadline: TBD
+  Notification of acceptance: TBD
+  Deadline for camera ready version: TBD
+  Workshop: Nov 10, 2019
 ```
 
-<font color="black" size="4"> Submission Guidelines </font> 
-
-Submissions must be full papers, at most 6 pages, or demo/poster abstracts (2 pages), including figures, tables and references, in two-column format, using a minimum of 10-pt font. Submitted papers must not be under review or published elsewhere. The review of all papers will follow the general single-blind policy. We require each to be in Adobe Portable Document Format (PDF) with [<font color="darkblue">ACM templates</font>](https://www.acm.org/publications/proceedings-template) ([<font color="darkblue">submit notes</font>](http://sensys.acm.org/2018/resources/documents/HowTo.pdf)) and submitted through the [submission site](https://blocksys18.hotcrp.com/). Accepted submissions will be available in the ACM digital library on the first day of the conference.
-
-For questions you have, please send email to: blocksys18inform_AT_gmail.com
-
 <font color="black" size="4"> Organizers </font> 
-SenSys Workshop Chairs<br/>
-  [<font color="darkblue">Rasit Eskicioglu</font>](http://www.cs.umanitoba.ca/~rasit/) (University of Manitoba)<br/>
-  [<font color="darkblue">Yong Li</font>](http://www.tsinghua.edu.cn/publish/eeen/3784/2014/20140822095535708666236/20140822095535708666236_.html) (Tsinghua University)<br/>
+General Chairs<br/>
+  [<font color="darkblue">Bhaskar Krishnamachari </font>](http://ceng.usc.edu/~bkrishna/) (University of Southern California)<br/>
+  [<font color="darkblue">Salil Kanhere</font>](https://salilkanhere.net/) (The University of New South Wales)<br/>
   
 Program Chairs<br/>
-  [<font color="darkblue">Bhaskar Krishnamachari</font>](http://ceng.usc.edu/~bkrishna/) (University of Southern California)<br/>
+  [<font color="darkblue">Bhaskar Krishnamachari</font>](http://cci.usc.edu/index.php/gowri/) (University of Southern California)<br/>
   Nairan Zhang (Facebook)<br/>
 
 TPC members<br/>
-  [<font color="darkblue">Ashwin Ashok</font>](https://grid.cs.gsu.edu/~aashok/) (Georgia State University)<br/>
-  [<font color="darkblue">Biplab Sikdar</font>](https://www.ece.nus.edu.sg/stfpage/bsikdar/) (National University of Singapore)<br/>
-  David Huseby (The Linux Foundation)<br/>
-  [<font color="darkblue">Gowri Sankar Ramachandran</font>](http://www.gowrisankar.net/) (University of Southern California)<br/>
-  [<font color="darkblue">Hong-Linh Truong</font>](http://www.infosys.tuwien.ac.at/staff/truong/) (Vienna University of Technology)<br/>
-  [<font color="darkblue">Joshua Ellul</font>](http://staff.um.edu.mt/joshua.ellul/) (University of Malta)<br/>
-  [<font color="darkblue">Juan Manuel Corchado</font>](https://bisite.usal.es/en/corchado) (University of Salamanca)<br/>
-  [<font color="darkblue">Kui Ren</font>](https://www.acsu.buffalo.edu/~kuiren/) (State University of New York at Buffalo)<br/>
-  [<font color="darkblue">Lav Varshney</font>](http://www.varshney.csl.illinois.edu/) (University of Illinois at Urbana-Champaign)<br/>
-  [<font color="darkblue">Liang Cheng</font>](http://liangcheng.info/) (Lehigh University)<br/>
-  [<font color="darkblue">Pan Hui</font>](https://www.cse.ust.hk/~panhui/) (HKUST & University of Helsinki)<br/>
-  [<font color="darkblue">Raja Jurdak</font>](https://people.csiro.au/J/R/Raja-Jurdak) (CSIRO)<br/>
-  [<font color="darkblue">Robert Deng</font>](http://www.mysmu.edu/faculty/robertdeng/) (Singapore Management University)<br/> 
-  [<font color="darkblue">Serguei Popov</font>](https://blog.iota.org/@serguei.popov) (IOTA Foundation)<br/>
-  Xinxin Fan (IoTeX)<br/>
-  [<font color="darkblue">Yonggang Wen</font>](http://www.ntu.edu.sg/home/ygwen/) (Nanyang Technological University)<br/>
-  Zhiyuan Jiang (Tsinghua University)<br/>
+TBD.
