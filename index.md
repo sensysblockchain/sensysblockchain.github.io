@@ -23,27 +23,28 @@ We have seen the increasing interest in tackling such problems by using emerging
   * Smart contract design and implementation in sensing systems<br/>
   * Formal verification on smart contracts in sensing systems<br/>
   * Decentralized sensing data storage<br/>
-  * Decentralized sensing data transmission<br/> 
+  * Decentralized sensing data transmission<br/>
   * Performance issues of using blockchain<br/>
   * Scalability issues of using blockchain<br/>
   * Using blockchain in resource/energy-constraint systems<br/>
   </font><br/>
-  
-<font color="black" size="4"> Important Dates </font> 
+
+<font color="black" size="4"> Important Dates </font>
 ```markdown
-  Submission deadline: TBD
-  Notification of acceptance: TBD
-  Deadline for camera ready version: TBD
+  Abstract Registration Deadline: June 28 (Friday), 2019, 23:59 AoE
+  Submission Deadline: July 5 (Friday), 2019, 23:59 AoE
+  Notification of Acceptance: August 16 (Friday), 2019, 23:59 AoE
+  Deadline for Camera Ready Submission: September 16 (Monday), 2019, 23:59 AoE
   Workshop: Nov 10, 2019
 ```
 
-<font color="black" size="4"> Organizers </font> 
+<font color="black" size="4"> Organizers </font>
 General Chairs<br/>
   [<font color="darkblue">Bhaskar Krishnamachari </font>](http://ceng.usc.edu/~bkrishna/) (University of Southern California)<br/>
   [<font color="darkblue">Salil Kanhere</font>](https://salilkanhere.net/) (The University of New South Wales)<br/>
-  
+
 Program Chairs<br/>
-  [<font color="darkblue">Bhaskar Krishnamachari</font>](http://cci.usc.edu/index.php/gowri/) (University of Southern California)<br/>
+  [<font color="darkblue">Gowri Ramachandran</font>](http://cci.usc.edu/index.php/gowri/) (University of Southern California)<br/>
   Nairan Zhang (Facebook)<br/>
 
 TPC members<br/>
