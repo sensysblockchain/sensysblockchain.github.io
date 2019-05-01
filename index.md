@@ -43,9 +43,9 @@ General Chairs<br/>
   [<font color="darkblue">Bhaskar Krishnamachari </font>](http://ceng.usc.edu/~bkrishna/) (University of Southern California)<br/>
   [<font color="darkblue">Salil Kanhere</font>](https://salilkanhere.net/) (The University of New South Wales)<br/>
 
-Program Chairs<br/>
+Program Co-Chairs<br/>
   [<font color="darkblue">Gowri Ramachandran</font>](http://cci.usc.edu/index.php/gowri/) (University of Southern California)<br/>
   Nairan Zhang (Facebook)<br/>
 
-TPC members<br/>
-TBD.
+Technical Program Committee<br/>
+TBA.
