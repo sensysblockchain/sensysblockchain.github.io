@@ -57,5 +57,6 @@ Technical Program Committee<br/>
     [<font color="darkblue">Michał Kr&oacute;l</font>](https://www.ucl.ac.uk/iccs/dr-michal-krol) (University College London, UK)<br/>
     [<font color="darkblue">Madhusanka Liyanage</font>](https://www.oulu.fi/university/researcher/madhusanka-liyanage) (University of Oulu, Finland)<br/>
     [<font color="darkblue">Kirill Nikitin</font>](https://nikirill.com/) (École Polytechnique Fédérale de Lausanne (EPFL), Switzerland)<br/>
+    [<font color="darkblue">Laura Ricci</font>](http://pages.di.unipi.it/ricci/) (University of Pisa, Italy)<br/>
     [<font color="darkblue">Biplab Sikdar</font>](https://www.eng.nus.edu.sg/ece/staff/biplab-sikdar/) (National University of Singapore, Singapore)<br/>
     [<font color="darkblue">Avelino Zorzo</font>](https://www.inf.pucrs.br/zorzo/) (PUCRS, Brazil)<br/>
