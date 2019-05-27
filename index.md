@@ -52,7 +52,10 @@ Technical Program Committee<br/>
     [<font color="darkblue">Ali Dorri</font>](http://scholar.google.com/citations?user=pxA8dzYAAAAJ&hl=en) (The University of New South Wales, Australia)<br/>
     [<font color="darkblue">Peizhao Hu</font>](https://www.cs.rit.edu/~ph/) (Rochester Institute of Technology, USA)<br/>
     [<font color="darkblue">Praveen Jayachandran</font>](https://researcher.watson.ibm.com/researcher/view.php?person=in-praveen.j) (IBM Research, India)<br/>
+    [<font color="darkblue">Zhiyuan Jiang</font>](https://zhiyuan-jiang.github.io/) (Shanghai University, China)<br/>
+    [<font color="darkblue">Raja Jurdak</font>](https://people.csiro.au/J/R/Raja-Jurdak) (CSIRO, Australia)<br/>
     [<font color="darkblue">Michał Kr&oacute;l</font>](https://www.ucl.ac.uk/iccs/dr-michal-krol) (University College London, UK)<br/>
     [<font color="darkblue">Madhusanka Liyanage</font>](https://www.oulu.fi/university/researcher/madhusanka-liyanage) (University of Oulu, Finland)<br/>
+    [<font color="darkblue">Kirill Nikitin</font>](https://nikirill.com/) (École Polytechnique Fédérale de Lausanne (EPFL), Switzerland)<br/>
     [<font color="darkblue">Biplab Sikdar</font>](https://www.eng.nus.edu.sg/ece/staff/biplab-sikdar/) (National University of Singapore, Singapore)<br/>
     [<font color="darkblue">Avelino Zorzo</font>](https://www.inf.pucrs.br/zorzo/) (PUCRS, Brazil)<br/>
