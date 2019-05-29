@@ -60,5 +60,6 @@ Technical Program Committee<br/>
     [<font color="darkblue">Laura Ricci</font>](http://pages.di.unipi.it/ricci/) (University of Pisa, Italy)<br/>
     [<font color="darkblue">Biplab Sikdar</font>](https://www.eng.nus.edu.sg/ece/staff/biplab-sikdar/) (National University of Singapore, Singapore)<br/>
     [<font color="darkblue">Sebastian Steinhorst</font>](https://www.professoren.tum.de/en/steinhorst-sebastian/) (Technical University of Munich, Germany)<br/>
+    [<font color="darkblue">Leandros Tassiulas</font>](https://seas.yale.edu/faculty-research/faculty-directory/leandros-tassiulas) (Yale University, USA)<br/>
     [<font color="darkblue">Erez Waisbard</font>](https://www.bell-labs.com/usr/erez.waisbard) (Nokia Bell Labs, Israel.)<br/>
     [<font color="darkblue">Avelino Zorzo</font>](https://www.inf.pucrs.br/zorzo/) (PUCRS, Brazil)<br/>
