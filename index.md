@@ -30,7 +30,7 @@ We have seen the increasing interest in tackling such problems by using emerging
   * Using blockchain in resource/energy-constraint systems<br/>
   </font><br/>
 
-<font color="black" size="4"> Important Dates </font>
+<font color="gray" size="3.25"> Important Dates </font>
 ```markdown
   Abstract Registration Deadline: June 28 (Friday), 2019, 23:59 AoE
   Submission Deadline: July 5 (Friday), 2019, 23:59 AoE
