@@ -31,11 +31,11 @@ We have seen the increasing interest in tackling such problems by using emerging
   </font><br/>
 
 <font color="black" size="4"><b> Important Dates</b> </font>
-- [] Abstract Registration Deadline: June 28 (Friday), 2019, 23:59 AoE
-- [] Submission Deadline: July 5 (Friday), 2019, 23:59 AoE
-- [] Notification of Acceptance: August 16 (Friday), 2019, 23:59 AoE
-- [] Deadline for Camera Ready Submission: September 16 (Monday), 2019, 23:59 AoE
-- [] Workshop: Nov 10, 2019
+Abstract Registration Deadline: June 28 (Friday), 2019, 23:59 AoE<br/>
+Submission Deadline: July 5 (Friday), 2019, 23:59 AoE<br/>
+Notification of Acceptance: August 16 (Friday), 2019, 23:59 AoE<br/>
+Deadline for Camera Ready Submission: September 16 (Monday), 2019, 23:59 AoE<br/>
+Workshop: Nov 10, 2019<br/>
 
 <font color="black" size="4"><b> Organizers</b> </font>
 General Chairs<br/>
