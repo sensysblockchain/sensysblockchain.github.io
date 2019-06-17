@@ -30,7 +30,7 @@ We have seen the increasing interest in tackling such problems by using emerging
   * Using blockchain in resource/energy-constraint systems<br/>
   </font><br/>
 
-<font color="bloack" size="4"> Important Dates </font>
+<font color="black" size="4"> Important Dates </font>
 ```markdown
   Abstract Registration Deadline: June 28 (Friday), 2019, 23:59 AoE
   Submission Deadline: July 5 (Friday), 2019, 23:59 AoE
@@ -65,5 +65,5 @@ Technical Program Committee<br/>
     [<font color="darkblue">Erez Waisbard</font>](https://www.bell-labs.com/usr/erez.waisbard) (Nokia Bell Labs, Israel.)<br/>
     [<font color="darkblue">Avelino Zorzo</font>](https://www.inf.pucrs.br/zorzo/) (PUCRS, Brazil)<br/>
 
-<font color="black" size="4"><b> Previous BlockSys</b> </font><br/>
+<font color="black" size="4"><b> Previous BlockSys</b> </font>
 [<font color="darkblue">2018 Shenzhen, China</font>](https://sensysblockchain.github.io/2018)<br/>
