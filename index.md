@@ -30,14 +30,20 @@ We have seen the increasing interest in tackling such problems by using emerging
   * Using blockchain in resource/energy-constraint systems<br/>
   </font><br/>
 
-<font color="black" size="4"><b> Important Dates</b> </font>
-Abstract Registration Deadline: June 28 (Friday), 2019, 23:59 AoE<br/>
-Submission Deadline: July 5 (Friday), 2019, 23:59 AoE<br/>
-Notification of Acceptance: August 16 (Friday), 2019, 23:59 AoE<br/>
-Deadline for Camera Ready Submission: September 16 (Monday), 2019, 23:59 AoE<br/>
-Workshop: Nov 10, 2019<br/>
+# <font color="black" size="4"><b> Important Dates</b> </font>
 
-<font color="black" size="4"><b> Organizers</b> </font>
+Abstract Registration Deadline: June 28 (Friday), 2019, 23:59 AoE
+
+Submission Deadline: July 5 (Friday), 2019, 23:59 AoE
+
+Notification of Acceptance: August 16 (Friday), 2019, 23:59 AoE
+
+Deadline for Camera Ready Submission: September 16 (Monday), 2019, 23:59 AoE
+
+Workshop: Nov 10, 2019
+
+# <font color="black" size="4"><b> Organizers</b> </font>
+
 General Chairs<br/>
   [<font color="darkblue">Bhaskar Krishnamachari </font>](http://ceng.usc.edu/~bkrishna/) (University of Southern California)<br/>
   [<font color="darkblue">Salil Kanhere</font>](https://salilkanhere.net/) (The University of New South Wales)<br/>
@@ -63,5 +69,6 @@ Technical Program Committee<br/>
     [<font color="darkblue">Erez Waisbard</font>](https://www.bell-labs.com/usr/erez.waisbard) (Nokia Bell Labs, Israel.)<br/>
     [<font color="darkblue">Avelino Zorzo</font>](https://www.inf.pucrs.br/zorzo/) (PUCRS, Brazil)<br/>
 
-<font color="black" size="4"><b> Previous BlockSys</b> </font>
+# <font color="black" size="4"><b> Previous BlockSys</b> </font>
+
 [<font color="darkblue">2018 Shenzhen, China</font>](https://sensysblockchain.github.io/2018)<br/>
