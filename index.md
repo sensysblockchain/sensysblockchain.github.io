@@ -1,5 +1,6 @@
 In conjunction with [<font color="darkblue">ACM SenSys 2019</font>](http://sensys.acm.org/2019/)<br/>
 
+Submission site: https://blocksys19.hotcrp.com/
 
 # <font color="black" size="4"><b> Call for Papers </b></font>
 
