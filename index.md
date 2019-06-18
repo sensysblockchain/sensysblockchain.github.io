@@ -65,6 +65,17 @@ Technical Program Committee<br/>
     [<font color="darkblue">Erez Waisbard</font>](https://www.bell-labs.com/usr/erez.waisbard) (Nokia Bell Labs, Israel.)<br/>
     [<font color="darkblue">Avelino Zorzo</font>](https://www.inf.pucrs.br/zorzo/) (PUCRS, Brazil)<br/>
 
+# <font color="black" size="4"><b> Submission Guidelines</b> </font>
+
+We solicit three types of paper submission:
+  <font size="2.75">
+  * Technical Papers up to 6 pages (including everything except references), reporting on novel research, to be presented at the workshop as an oral presentation;
+  * Position Papers up to 4 pages (including everything), reporting on new research directions to be presented at the workshop as an oral presentation with interactive discussion;
+  * Demo/Poster Papers up to 2 pages (including everything), to be presented at the workshop as an interactive demonstration or poster respectively.
+  </font><br/>
+
+Submissions should be previously unpublished, and not currently under review by another conference or journal. Papers should be submitted for consideration via the workshop website, prior to the submission deadline, and must adhere to the provided formatting guidelines. All submissions must use the LaTeX styles found [<font color="darkblue">here </font>](https://www.acm.org/publications/proceedings-template). Papers that do not meet the size and formatting requirements will not be reviewed. Please note that ACM uses 9pt fonts in all conference proceedings, and the LaTeX style implicitly defines the font size to be 9pt.     
+
 # <font color="black" size="4"><b> Previous BlockSys</b> </font>
 
 [<font color="darkblue">2018 Shenzhen, China</font>](https://sensysblockchain.github.io/2018)<br/>
