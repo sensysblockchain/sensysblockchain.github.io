@@ -32,10 +32,10 @@ We have seen the increasing interest in tackling such problems by using emerging
 
 # <font color="black" size="4"><b> Important Dates</b> </font>
 
-Abstract Registration Deadline: July 26 (Friday), 2019, 23:59 AoE<br/>
-Submission Deadline: August 2 (Friday), 2019, 23:59 AoE<br/>
-Notification of Acceptance: August 16 (Friday), 2019, 23:59 AoE<br/>
-Deadline for Camera Ready Submission: September 16 (Monday), 2019, 23:59 AoE<br/>
+Abstract Registration Deadline: August 9 (Friday), 2019, 23:59 AoE<br/> 
+Submission Deadline: August 9 (Friday), 2019, 23:59 AoE<br/>
+Notification of Acceptance: September 10 (Tuesday), 2019, 23:59 AoE<br/>
+Deadline for Camera Ready Submission: September 20 (Friday), 2019, 23:59 AoE<br/>
 Workshop: Nov 10, 2019<br/>
 
 # <font color="black" size="4"><b> Organizers</b> </font>
