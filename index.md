@@ -2,10 +2,11 @@ In conjunction with [<font color="darkblue">ACM SenSys 2019</font>](http://sensy
 
 <font color="black" size="4"> Program </font>
 
-9:00-9:10 Introduction to BlockSys by Bhaskar Krishnamachari, Gowri Ramachandran
+9:00-9:10 Introduction to BlockSys 
+Bhaskar Krishnamachari, Gowri Ramachandran<br/>
 
-9:10-10:20
-<font color="red" size="4">Keynote Speech: </font> Roman Vaculin, Senior Manager - IoT, AI & Blockchain for Industry Solutions, IBM Research<br/>
+9:10-10:20 <font color="red" size="4">Keynote Speech: </font> 
+Roman Vaculin, Senior Manager - IoT, AI & Blockchain for Industry Solutions, IBM Research<br/>
 
 10:20-10:45 Networking/Break
 
@@ -16,8 +17,8 @@ Nidhin Mahesh A, Sai Shibu N B, and Balamurugan S  (Amrita Vishwa Vidyapeetham)
 <font color="black" size="3">[Paper] Secure Implementation of an IOTA Light Node using STM32 </font>
 Beatrice Rossi, Diego Stucchi, Pasqualina Fragneto, and Ruggero Susella (STMicroelectronics)
 
-11:15-noon
-<font color="red" size="4">Keynote Speech: </font> Ryan John King, Co-founder and CEO of Foam<br/>
+11:15-noon <font color="red" size="4">Keynote Speech: </font> 
+Ryan John King, Co-founder and CEO of Foam<br/>
 
 12:00-13:30 Lunch
 
