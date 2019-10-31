@@ -1,6 +1,50 @@
 In conjunction with [<font color="darkblue">ACM SenSys 2019</font>](http://sensys.acm.org/2019/)<br/>
 
-Submission site: [<font color="darkblue">hotcrp</font>](https://blocksys19.hotcrp.com/)<br/>
+<font color="black" size="4"> Program </font>
+
+9:00-9:10 Introduction to BlockSys by Bhaskar Krishnamachari, Gowri Ramachandran
+
+9:10-10:20
+<font color="red" size="4">Keynote Speech: </font> Roman Vaculin, Senior Manager - IoT, AI & Blockchain for Industry Solutions, IBM Research<br/>
+
+10:20-10:45 Networking/Break
+
+10:45-11:15 Technical Session
+
+<font color="black" size="3">[Paper] Conceptualising Blockchain based Energy Market for Self Sustainable Community </font>
+Nidhin Mahesh A, Sai Shibu N B, and Balamurugan S  (Amrita Vishwa Vidyapeetham)
+<font color="black" size="3">[Paper] Secure Implementation of an IOTA Light Node using STM32 </font>
+Beatrice Rossi, Diego Stucchi, Pasqualina Fragneto, and Ruggero Susella (STMicroelectronics)
+
+11:15-noon
+<font color="red" size="4">Keynote Speech: </font> Ryan John King, Co-founder and CEO of Foam<br/>
+
+12:00-13:30 Lunch
+
+13:30-14:30 Panel on Blockchain, IoT, and Data Economy
+Moderator: Bhaskar Krishnamachari (University of Southern California)
+Jorge Ortiz (Rutger University)
+Erez Waisbard (Nokia Bell Labs)
+Martin B.H. Weiss (University of Pittsburgh)
+
+14:30-15:00 
+<font color="red" size="4">Invited Talk: </font> Microchained IoT Fabric for Secure-by-Design Edge Computing, Yu Chen (Binghamton University, SUNY)<br/>
+ 
+15:00-15:15 Networking/Break
+
+15:15-16:30 Technical Session
+
+<font color="black" size="3">[Paper] 
+An Experimental Framework for Investigating Hashgraph Algorithm Transaction Speed </font>
+John James, Daniel Hawthorne, Aaron StLeger, Katherine Duncan, and Joseph Sagisi (United States Military Academy) Michael Collins (Department of Defense)
+<font color="black" size="3">[Paper] EngraveChain:Tamper-proof Distributed Log System </font>
+Louis M Shekhtman and  Erez Waisbard (Nokia Bell Labs)
+<font color="black" size="3">[Paper] Node Criticality Assessment in a Blockchain Network </font>
+Aditya Shyam Bazari ((Delhi Technological University), Akash Aggarwal (Indian Institute of Technology, Varanasi), Waqar Asif (University of London), Marios Lestas (Frederick University, Cyprus), Rajarajan Muttukrishnan (University of London)
+
+
+16:30-16:45 closing remarks
+
 
 # <font color="black" size="4"><b> Call for Papers </b></font>
 
