@@ -23,10 +23,10 @@ Ryan John King, Co-founder and CEO of Foam<br/>
 12:00-13:30 Lunch
 
 13:30-14:30 <font color="red" size="4">Panel on Blockchain, IoT, and Data Economy </font> <br/>
-Moderator: Bhaskar Krishnamachari (University of Southern California)
-Jorge Ortiz (Rutger University)
-Erez Waisbard (Nokia Bell Labs)
-Martin B.H. Weiss (University of Pittsburgh)
+Moderator: Bhaskar Krishnamachari (University of Southern California)<br/>
+Jorge Ortiz (Rutger University)<br/>
+Erez Waisbard (Nokia Bell Labs)<br/>
+Martin B.H. Weiss (University of Pittsburgh)<br/>
 
 14:30-15:00 <font color="red" size="4">Invited Talk: </font> 
 Microchained IoT Fabric for Secure-by-Design Edge Computing, Yu Chen (Binghamton University, SUNY)<br/>
