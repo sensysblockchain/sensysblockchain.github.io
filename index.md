@@ -17,7 +17,7 @@ Nidhin Mahesh A, Sai Shibu N B, and Balamurugan S  (Amrita Vishwa Vidyapeetham)
 <font color="black" size="3">[Paper] Secure Implementation of an IOTA Light Node using STM32 </font>
 Beatrice Rossi, Diego Stucchi, Pasqualina Fragneto, and Ruggero Susella (STMicroelectronics)
 
-11:15-noon <font color="red" size="4">Keynote Speech: </font> 
+11:15-noon <font color="red" size="4">Keynote Speech: Introduction to FOAM Location: A Blockchain-enabled Low Power Radio System </font> 
 Ryan John King, Co-founder and CEO of Foam<br/>
 
 12:00-13:30 Lunch
