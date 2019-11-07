@@ -1,16 +1,20 @@
 In conjunction with [<font color="darkblue">ACM SenSys 2019</font>](http://sensys.acm.org/2019/)<br/>
 
+<font color="black" size="4"> Venue: Hamilton-503, <a href="https://www.google.com/maps/place/Hamilton+Hall,+Columbia+University/@40.8067381,-73.9638408,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2f63e70bb34ab:0xd45652ffd4e6c310!8m2!3d40.8067381!4d-73.9616521">Hamilton Hall</a>, Columbia University </font>
+
 <font color="black" size="4"> Program </font>
 
-9:00-9:10 Introduction to BlockSys 
+9:00-9:05 Introduction to BlockSys 
 Bhaskar Krishnamachari, Gowri Ramachandran<br/>
 
-9:10-10:20 <font color="red" size="4">Keynote Speech: </font> 
+9:05-10:00 <font color="red" size="4">Keynote Speech </font> 
 Roman Vaculin, Senior Manager - IoT, AI & Blockchain for Industry Solutions, IBM Research<br/>
 
-10:20-10:45 Networking/Break
+10:00-10:30 <font color="red" size="4"> Invited Talk on Decentralized Storage</font>
 
-10:45-11:15 Technical Session
+10:30-10:45 Coffee Break
+
+10:45-11:15 Technical Session (Chair: Gowri Ramachandran, University of Southern California)
 
 <font color="black" size="3">[Paper] Conceptualising Blockchain based Energy Market for Self Sustainable Community </font>
 Nidhin Mahesh A, Sai Shibu N B, and Balamurugan S  (Amrita Vishwa Vidyapeetham)
@@ -33,7 +37,7 @@ Microchained IoT Fabric for Secure-by-Design Edge Computing, Yu Chen (Binghamton
  
 15:00-15:15 Networking/Break
 
-15:15-16:30 Technical Session
+15:15-16:30 Technical Session (Yu Chen, Binghamtom University, SUNY)
 
 <font color="black" size="3">[Paper] 
 An Experimental Framework for Investigating Hashgraph Algorithm Transaction Speed </font>
