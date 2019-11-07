@@ -11,7 +11,7 @@ Bhaskar Krishnamachari, Gowri Ramachandran<br/>
 Roman Vaculin, Senior Manager - IoT, AI & Blockchain for Industry Solutions, IBM Research<br/>
 
 10:00-10:30 <font color="red" size="4"> Invited Talk on Decentralized Storage</font>
-Manasi Vora (Head of Product Strategy) and Marcin Jachymiak (Core Developer), <a href="sia.tech">Sia</a>
+Manasi Vora (Head of Product Strategy) and Marcin Jachymiak (Core Developer), <a href="https://sia.tech/">Sia</a>
 
 10:30-10:45 Coffee Break
 
