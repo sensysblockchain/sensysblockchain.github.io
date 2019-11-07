@@ -1,7 +1,7 @@
 In conjunction with [<font color="darkblue">ACM SenSys 2019</font>](http://sensys.acm.org/2019/)<br/>
 
 <font color="black" size="4"> Venue: Hamilton-503, <a href="https://www.google.com/maps/place/Hamilton+Hall,+Columbia+University/@40.8067381,-73.9638408,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2f63e70bb34ab:0xd45652ffd4e6c310!8m2!3d40.8067381!4d-73.9616521">Hamilton Hall</a>, Columbia University </font>
-</br>
+
 <font color="black" size="4"> Program </font>
 
 9:00-9:05 Introduction to BlockSys 
