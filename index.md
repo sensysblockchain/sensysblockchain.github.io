@@ -31,7 +31,7 @@ Ryan John King, Co-founder and CEO of Foam<br/>
 Moderator: Bhaskar Krishnamachari (University of Southern California)<br/>
 Jorge Ortiz (Rutger University)<br/>
 Erez Waisbard (Nokia Bell Labs)<br/>
-Martin B.H. Weiss (University of Pittsburgh)<br/>
+Martin B.H. Weiss (University of Pittsburgh) - <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3486373">Blockchain Governance on Technologists</a><br/>
 
 14:30-15:00 <font color="red" size="4">Invited Talk: </font> 
 Microchained IoT Fabric for Secure-by-Design Edge Computing, Yu Chen (Binghamton University, SUNY)<br/>
