@@ -76,4 +76,6 @@ We solicit three types of paper submission:
   * Demo/Poster Papers up to 2 pages (including everything), to be presented at the workshop as an interactive demonstration or poster respectively.<br/>
   </font><br/>
 
-Submissions should be previously unpublished, and not currently under review by another conference or journal. Papers should be submitted for consideration via the workshop website, prior to the submission deadline, and must adhere to the provided formatting guidelines. All submissions must use the LaTeX styles found [<font color="darkblue">here </font>](https://www.acm.org/publications/proceedings-template). Papers that do not meet the size and formatting requirements will not be reviewed. Please note that ACM uses 9pt fonts in all conference proceedings, and the LaTeX style implicitly defines the font size to be 9pt.     
+Submissions should be previously unpublished, and not currently under review by another conference or journal. Papers should be submitted for consideration via the workshop website, prior to the submission deadline, and must adhere to the provided formatting guidelines. All submissions must use the LaTeX styles found [<font color="darkblue">here </font>](https://www.acm.org/publications/proceedings-template). Papers that do not meet the size and formatting requirements will not be reviewed. Please note that ACM uses 9pt fonts in all conference proceedings, and the LaTeX style implicitly defines the font size to be 9pt.  
+
+For any questions, send to blocksys.inform@gmail.com
