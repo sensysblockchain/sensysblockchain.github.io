@@ -1,55 +1,4 @@
-In conjunction with [<font color="darkblue">ACM SenSys 2019</font>](http://sensys.acm.org/2019/)<br/>
-
-<font color="black" size="4"> Venue: Hamilton-303, <a href="https://www.google.com/maps/place/Hamilton+Hall,+Columbia+University/@40.8067381,-73.9638408,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2f63e70bb34ab:0xd45652ffd4e6c310!8m2!3d40.8067381!4d-73.9616521">Hamilton Hall</a>, Columbia University </font><br/>
-
-<font color="black" size="4"> Program </font>
-
-9:00-9:05 Introduction to BlockSys 
-Bhaskar Krishnamachari, Gowri Ramachandran<br/>
-
-9:05-10:00 <font color="red" size="4">Keynote Speech </font> 
-Roman Vaculin, Senior Manager - IoT, AI & Blockchain for Industry Solutions, IBM Research<br/>
-
-10:00-10:30 <font color="red" size="4"> Invited Talk on Decentralized Storage</font>
-Manasi Vora (Head of Product Strategy) and Marcin Jachymiak (Core Developer), <a href="https://sia.tech/">Sia</a>
-
-10:30-10:45 Coffee Break
-
-10:45-11:15 Technical Session (Chair: Gowri Ramachandran, University of Southern California)
-
-<font color="black" size="3">[Paper] Conceptualising Blockchain based Energy Market for Self Sustainable Community </font>
-Nidhin Mahesh A, Sai Shibu N B, and Balamurugan S  (Amrita Vishwa Vidyapeetham)
-<font color="black" size="3">[Paper] Secure Implementation of an IOTA Light Node using STM32 </font>
-Beatrice Rossi, Diego Stucchi, Pasqualina Fragneto, and Ruggero Susella (STMicroelectronics)
-
-11:15-noon <font color="red" size="4">Keynote Speech: Introduction to FOAM Location: A Blockchain-enabled Low Power Radio System </font> 
-Ryan John King, Co-founder and CEO of Foam<br/>
-
-12:00-13:30 Lunch
-
-13:30-14:30 <font color="red" size="4">Panel on Blockchain, IoT, and Data Economy </font> <br/>
-Moderator: Bhaskar Krishnamachari (University of Southern California)<br/>
-Jorge Ortiz (Rutger University)<br/>
-Erez Waisbard (Nokia Bell Labs)<br/>
-Martin B.H. Weiss (University of Pittsburgh) - <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3486373">Blockchain Governance on Technologists</a><br/>
-
-14:30-15:00 <font color="red" size="4">Invited Talk: </font> 
-Microchained IoT Fabric for Secure-by-Design Edge Computing, Yu Chen (Binghamton University, SUNY)<br/>
- 
-15:00-15:15 Networking/Break
-
-15:15-16:30 Technical Session (Yu Chen, Binghamtom University, SUNY)
-
-<font color="black" size="3">[Paper] 
-An Experimental Framework for Investigating Hashgraph Algorithm Transaction Speed </font>
-John James, Daniel Hawthorne, Aaron StLeger, Katherine Duncan, and Joseph Sagisi (United States Military Academy) Michael Collins (Department of Defense)
-<font color="black" size="3">[Paper] EngraveChain:Tamper-proof Distributed Log System </font>
-Louis M Shekhtman and  Erez Waisbard (Nokia Bell Labs)
-<font color="black" size="3">[Paper] Node Criticality Assessment in a Blockchain Network </font>
-Aditya Shyam Bazari ((Delhi Technological University), Akash Aggarwal (Indian Institute of Technology, Varanasi), Waqar Asif (University of London), Marios Lestas (Frederick University, Cyprus), Rajarajan Muttukrishnan (University of London)
-
-
-16:30-16:45 closing remarks
+In conjunction with [<font color="darkblue">ACM SenSys 2020</font>](http://sensys.acm.org/2020/)<br/>
 
 
 # <font color="black" size="4"><b> Call for Papers </b></font>
@@ -82,11 +31,11 @@ We have seen the increasing interest in tackling such problems by using emerging
 
 # <font color="black" size="4"><b> Important Dates</b> </font>
 
-Abstract Registration Deadline: August 9 (Friday), 2019, 23:59 AoE<br/> 
-Submission Deadline: August 9 (Friday), 2019, 23:59 AoE<br/>
-Notification of Acceptance: September 10 (Tuesday), 2019, 23:59 AoE<br/>
-Deadline for Camera Ready Submission: September 20 (Friday), 2019, 23:59 AoE<br/>
-Workshop: Nov 10, 2019<br/>
+Abstract Registration Deadline: TBD<br/> 
+Submission Deadline: TBD<br/>
+Notification of Acceptance: TBD<br/>
+Deadline for Camera Ready Submission: TBD<br/>
+Workshop: November 16, 2020<br/>
 
 # <font color="black" size="4"><b> Organizers</b> </font>
 
@@ -96,9 +45,10 @@ General Chairs<br/>
 
 Program Co-Chairs<br/>
   [<font color="darkblue">Gowri Ramachandran</font>](http://cci.usc.edu/index.php/gowri/) (University of Southern California)<br/>
-  Nairan Zhang (Facebook)<br/>
+  Nairan Zhang (Amazon)<br/>
 
 Technical Program Committee<br/>
+    [<font color="darkblue">Yonggang Wen</font>](http://www.ntu.edu.sg/home/ygwen/) (Nanyang Technological University)<br/>
     [<font color="darkblue">Yu Chen</font>](http://harvey.binghamton.edu/~ychen/) (Binghamton University, State University of New York, USA)<br/>
     [<font color="darkblue">Ali Dorri</font>](http://scholar.google.com/citations?user=pxA8dzYAAAAJ&hl=en) (The University of New South Wales, Australia)<br/>
     [<font color="darkblue">Peizhao Hu</font>](https://www.cs.rit.edu/~ph/) (Rochester Institute of Technology, USA)<br/>
@@ -114,6 +64,8 @@ Technical Program Committee<br/>
     [<font color="darkblue">Leandros Tassiulas</font>](https://seas.yale.edu/faculty-research/faculty-directory/leandros-tassiulas) (Yale University, USA)<br/>
     [<font color="darkblue">Erez Waisbard</font>](https://www.bell-labs.com/usr/erez.waisbard) (Nokia Bell Labs, Israel.)<br/>
     [<font color="darkblue">Avelino Zorzo</font>](https://www.inf.pucrs.br/zorzo/) (PUCRS, Brazil)<br/>
+    [<font color="darkblue">Stefano Ferretti</font>](https://www.unibo.it/sitoweb/s.ferretti/cv-en) (University of Urbino, Italy)<br/>
+    [<font color="darkblue">Minho Jo</font>](https://scholar.google.com/citations?user=XMaiAcMAAAAJ&hl=zh-CN) (Korea University, South Korea)<br/>
 
 # <font color="black" size="4"><b> Submission Guidelines</b> </font>
 
@@ -125,7 +77,3 @@ We solicit three types of paper submission:
   </font><br/>
 
 Submissions should be previously unpublished, and not currently under review by another conference or journal. Papers should be submitted for consideration via the workshop website, prior to the submission deadline, and must adhere to the provided formatting guidelines. All submissions must use the LaTeX styles found [<font color="darkblue">here </font>](https://www.acm.org/publications/proceedings-template). Papers that do not meet the size and formatting requirements will not be reviewed. Please note that ACM uses 9pt fonts in all conference proceedings, and the LaTeX style implicitly defines the font size to be 9pt.     
-
-# <font color="black" size="4"><b> Previous BlockSys</b> </font>
-
-[<font color="darkblue">2018 Shenzhen, China</font>](https://sensysblockchain.github.io/2018)<br/>
