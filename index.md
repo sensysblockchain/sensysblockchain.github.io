@@ -31,10 +31,10 @@ We have seen the increasing interest in tackling such problems by using emerging
 
 # <font color="black" size="4"><b> Important Dates</b> </font>
 
-Abstract Registration Deadline: TBD<br/> 
-Submission Deadline: TBD<br/>
-Notification of Acceptance: TBD<br/>
-Deadline for Camera Ready Submission: TBD<br/>
+Abstract Registration Deadline:  August 5 (Wednesday), 2020, 23:59 AoE<br/> 
+Submission Deadline:  August 19 (Wednesday), 2020, 23:59 AoE<br/>
+Notification of Acceptance: September 2 (Wednesday), 2020, 23:59 AoE<br/>
+Deadline for Camera Ready Submission: September 9 (Wednesday), 2020, 23:59 AoE<br/>
 Workshop: November 16, 2020<br/>
 
 # <font color="black" size="4"><b> Organizers</b> </font>
