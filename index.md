@@ -48,7 +48,7 @@ Program Co-Chairs<br/>
   Nairan Zhang (Amazon)<br/>
 
 Technical Program Committee (Tentative)<br/>
-    [<font color="darkblue">Yonggang Wen</font>](http://www.ntu.edu.sg/home/ygwen/) (Nanyang Technological University)<br/>
+    [<font color="darkblue">Sandip Chakraborty</font>](https://cse.iitkgp.ac.in/~sandipc/) (BIndian Institute of Technology Kharagpur, India)<br/>
     [<font color="darkblue">Yu Chen</font>](http://harvey.binghamton.edu/~ychen/) (Binghamton University, State University of New York, USA)<br/>
     [<font color="darkblue">Ali Dorri</font>](http://scholar.google.com/citations?user=pxA8dzYAAAAJ&hl=en) (The University of New South Wales, Australia)<br/>
     [<font color="darkblue">Peizhao Hu</font>](https://www.cs.rit.edu/~ph/) (Rochester Institute of Technology, USA)<br/>
