@@ -31,10 +31,10 @@ We have seen the increasing interest in tackling such problems by using emerging
 
 # <font color="black" size="4"><b> Important Dates</b> </font>
 
-Abstract Registration Deadline:  August 5 (Wednesday), 2020, 23:59 AoE<br/> 
-Submission Deadline:  August 19 (Wednesday), 2020, 23:59 AoE<br/>
-Notification of Acceptance: September 2 (Wednesday), 2020, 23:59 AoE<br/>
-Deadline for Camera Ready Submission: September 9 (Wednesday), 2020, 23:59 AoE<br/>
+Abstract Registration Deadline:  September 18 (Friday), 2020, 23:59 AoE<br/> 
+Submission Deadline:  September 18 (Friday), 2020, 23:59 AoE<br/>
+Notification of Acceptance: October 9 (Friday), 2020, 23:59 AoE<br/>
+Deadline for Camera Ready Submission: October 16 (Friday), 2020, 23:59 AoE<br/>
 Workshop: November 16, 2020<br/>
 
 # <font color="black" size="4"><b> Organizers</b> </font>
@@ -57,7 +57,6 @@ Technical Program Committee (Tentative)<br/>
     [<font color="darkblue">Raja Jurdak</font>](https://people.csiro.au/J/R/Raja-Jurdak) (CSIRO, Australia)<br/>
     [<font color="darkblue">Michał Kr&oacute;l</font>](https://www.ucl.ac.uk/iccs/dr-michal-krol) (University College London, UK)<br/>
     [<font color="darkblue">Madhusanka Liyanage</font>](https://www.oulu.fi/university/researcher/madhusanka-liyanage) (University of Oulu, Finland)<br/>
-    [<font color="darkblue">Kirill Nikitin</font>](https://nikirill.com/) (École Polytechnique Fédérale de Lausanne (EPFL), Switzerland)<br/>
     [<font color="darkblue">Laura Ricci</font>](http://pages.di.unipi.it/ricci/) (University of Pisa, Italy)<br/>
     [<font color="darkblue">Biplab Sikdar</font>](https://www.eng.nus.edu.sg/ece/staff/biplab-sikdar/) (National University of Singapore, Singapore)<br/>
     [<font color="darkblue">Sebastian Steinhorst</font>](https://www.professoren.tum.de/en/steinhorst-sebastian/) (Technical University of Munich, Germany)<br/>
