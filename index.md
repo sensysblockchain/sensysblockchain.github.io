@@ -48,11 +48,13 @@ Program Co-Chairs<br/>
   Nairan Zhang (Amazon)<br/>
 
 Technical Program Committee (Tentative)<br/>
-    [<font color="darkblue">Sandip Chakraborty</font>](https://cse.iitkgp.ac.in/~sandipc/) (BIndian Institute of Technology Kharagpur, India)<br/>
+    [<font color="darkblue">Sandip Chakraborty</font>](https://cse.iitkgp.ac.in/~sandipc/) (Indian Institute of Technology Kharagpur, India)<br/>
     [<font color="darkblue">Yu Chen</font>](http://harvey.binghamton.edu/~ychen/) (Binghamton University, State University of New York, USA)<br/>
     [<font color="darkblue">Ali Dorri</font>](http://scholar.google.com/citations?user=pxA8dzYAAAAJ&hl=en) (The University of New South Wales, Australia)<br/>
+    [<font color="darkblue">Volkan Dedeoglu</font>](https://scholar.google.com/citations?user=KAVUjk8AAAAJ&hl=en) (CSIRO, Australia)<br/>
+    [<font color="darkblue">Stefano Ferretti</font>](https://www.unibo.it/sitoweb/s.ferretti/cv-en) (University of Urbino, Italy)<br/>
+    [<font color="darkblue">Minho Jo</font>](https://scholar.google.com/citations?user=XMaiAcMAAAAJ&hl=zh-CN) (Korea University, South Korea)<br/>
     [<font color="darkblue">Peizhao Hu</font>](https://www.cs.rit.edu/~ph/) (Rochester Institute of Technology, USA)<br/>
-    [<font color="darkblue">Praveen Jayachandran</font>](https://researcher.watson.ibm.com/researcher/view.php?person=in-praveen.j) (IBM Research, India)<br/>
     [<font color="darkblue">Zhiyuan Jiang</font>](https://zhiyuan-jiang.github.io/) (Shanghai University, China)<br/>
     [<font color="darkblue">Raja Jurdak</font>](https://people.csiro.au/J/R/Raja-Jurdak) (CSIRO, Australia)<br/>
     [<font color="darkblue">Michał Kr&oacute;l</font>](https://www.ucl.ac.uk/iccs/dr-michal-krol) (University College London, UK)<br/>
@@ -63,8 +65,6 @@ Technical Program Committee (Tentative)<br/>
     [<font color="darkblue">Leandros Tassiulas</font>](https://seas.yale.edu/faculty-research/faculty-directory/leandros-tassiulas) (Yale University, USA)<br/>
     [<font color="darkblue">Erez Waisbard</font>](https://www.bell-labs.com/usr/erez.waisbard) (Nokia Bell Labs, Israel.)<br/>
     [<font color="darkblue">Avelino Zorzo</font>](https://www.inf.pucrs.br/zorzo/) (PUCRS, Brazil)<br/>
-    [<font color="darkblue">Stefano Ferretti</font>](https://www.unibo.it/sitoweb/s.ferretti/cv-en) (University of Urbino, Italy)<br/>
-    [<font color="darkblue">Minho Jo</font>](https://scholar.google.com/citations?user=XMaiAcMAAAAJ&hl=zh-CN) (Korea University, South Korea)<br/>
 
 # <font color="black" size="4"><b> Submission Guidelines</b> </font>
 
