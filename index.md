@@ -58,12 +58,9 @@ Technical Program Committee (Tentative)<br/>
     [<font color="darkblue">Zhiyuan Jiang</font>](https://zhiyuan-jiang.github.io/) (Shanghai University, China)<br/>
     [<font color="darkblue">Raja Jurdak</font>](https://people.csiro.au/J/R/Raja-Jurdak) (CSIRO, Australia)<br/>
     [<font color="darkblue">Michał Kr&oacute;l</font>](https://www.ucl.ac.uk/iccs/dr-michal-krol) (University College London, UK)<br/>
-    [<font color="darkblue">Madhusanka Liyanage</font>](https://www.oulu.fi/university/researcher/madhusanka-liyanage) (University of Oulu, Finland)<br/>
+    [<font color="darkblue">Heena Rathorel</font>](https://drheenarathore.wordpress.com/) (University of Texas, SA, USA)<br/>
     [<font color="darkblue">Laura Ricci</font>](http://pages.di.unipi.it/ricci/) (University of Pisa, Italy)<br/>
-    [<font color="darkblue">Biplab Sikdar</font>](https://www.eng.nus.edu.sg/ece/staff/biplab-sikdar/) (National University of Singapore, Singapore)<br/>
     [<font color="darkblue">Sebastian Steinhorst</font>](https://www.professoren.tum.de/en/steinhorst-sebastian/) (Technical University of Munich, Germany)<br/>
-    [<font color="darkblue">Leandros Tassiulas</font>](https://seas.yale.edu/faculty-research/faculty-directory/leandros-tassiulas) (Yale University, USA)<br/>
-    [<font color="darkblue">Erez Waisbard</font>](https://www.bell-labs.com/usr/erez.waisbard) (Nokia Bell Labs, Israel.)<br/>
     [<font color="darkblue">Avelino Zorzo</font>](https://www.inf.pucrs.br/zorzo/) (PUCRS, Brazil)<br/>
 
 # <font color="black" size="4"><b> Submission Guidelines</b> </font>
