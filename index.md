@@ -57,7 +57,7 @@ Technical Program Committee (Tentative)<br/>
     [<font color="darkblue">Peizhao Hu</font>](https://www.cs.rit.edu/~ph/) (Rochester Institute of Technology, USA)<br/>
     [<font color="darkblue">Zhiyuan Jiang</font>](https://zhiyuan-jiang.github.io/) (Shanghai University, China)<br/>
     [<font color="darkblue">Raja Jurdak</font>](https://people.csiro.au/J/R/Raja-Jurdak) (CSIRO, Australia)<br/>
-    [<font color="darkblue">Michał Kr&oacute;l</font>](https://www.ucl.ac.uk/iccs/dr-michal-krol) (University College London, UK)<br/>
+    [<font color="darkblue">Michał Kr&oacute;l</font>](https://scholar.google.fr/citations?user=rg5x6CAAAAAJ&hl=en) (City, University of London)<br/>
     [<font color="darkblue">Heena Rathore</font>](https://drheenarathore.wordpress.com/) (University of Texas, SA, USA)<br/>
     [<font color="darkblue">Laura Ricci</font>](http://pages.di.unipi.it/ricci/) (University of Pisa, Italy)<br/>
     [<font color="darkblue">Sebastian Steinhorst</font>](https://www.professoren.tum.de/en/steinhorst-sebastian/) (Technical University of Munich, Germany)<br/>
