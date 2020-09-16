@@ -73,6 +73,8 @@ We solicit three types of paper submission:
 
 [<font color="darkblue">Submission site </font>](https://blocksys20.hotcrp.com/)
 
-Submissions should be previously unpublished, and not currently under review by another conference or journal. Papers should be submitted for consideration via the workshop website, prior to the submission deadline, and must adhere to the provided formatting guidelines. All submissions must use the LaTeX styles found [<font color="darkblue">here </font>](https://www.acm.org/publications/proceedings-template). Papers that do not meet the size and formatting requirements will not be reviewed. Please note that ACM uses 9pt fonts in all conference proceedings, and the LaTeX style implicitly defines the font size to be 9pt.  
+Submissions should be previously unpublished, and not currently under review by another conference or journal. Papers should be submitted for consideration via the workshop website, prior to the submission deadline, and must adhere to the provided formatting guidelines. All submissions must use the LaTeX styles found [<font color="darkblue">here </font>](https://www.acm.org/publications/proceedings-template). Papers that do not meet the size and formatting requirements will not be reviewed. Please note that ACM uses 9pt fonts in all conference proceedings, and the LaTeX style implicitly defines the font size to be 9pt. 
+
+The program committee will elect a paper for the Best Paper Award. 
 
 For any questions, send to blocksys.inform@gmail.com
