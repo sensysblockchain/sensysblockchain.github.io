@@ -50,7 +50,7 @@ Program Co-Chairs<br/>
 Technical Program Committee<br/>
     [<font color="darkblue">Sandip Chakraborty</font>](https://cse.iitkgp.ac.in/~sandipc/) (Indian Institute of Technology Kharagpur, India)<br/>
     [<font color="darkblue">Yu Chen</font>](http://harvey.binghamton.edu/~ychen/) (Binghamton University, State University of New York, USA)<br/>
-    [<font color="darkblue">Ali Dorri</font>](http://scholar.google.com/citations?user=pxA8dzYAAAAJ&hl=en) (The University of New South Wales, Australia)<br/>
+    [<font color="darkblue">Ali Dorri</font>](http://scholar.google.com/citations?user=pxA8dzYAAAAJ&hl=en) (Queensland University of Technology, Australia)<br/>
     [<font color="darkblue">Volkan Dedeoglu</font>](https://scholar.google.com/citations?user=KAVUjk8AAAAJ&hl=en) (CSIRO, Australia)<br/>
     [<font color="darkblue">Stefano Ferretti</font>](https://www.unibo.it/sitoweb/s.ferretti/cv-en) (University of Urbino, Italy)<br/>
     [<font color="darkblue">Minho Jo</font>](https://scholar.google.com/citations?user=XMaiAcMAAAAJ&hl=zh-CN) (Korea University, South Korea)<br/>
