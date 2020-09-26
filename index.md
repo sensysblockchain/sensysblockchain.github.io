@@ -31,10 +31,10 @@ We have seen the increasing interest in tackling such problems by using emerging
 
 # <font color="black" size="4"><b> Important Dates</b> </font>
 
-Abstract Registration Deadline (extended):  September 25 (Friday), 2020, 23:59 AoE<br/> 
-Submission Deadline (extended) :  September 25 (Friday), 2020, 23:59 AoE<br/>
-Notification of Acceptance: October 9 (Friday), 2020, 23:59 AoE<br/>
-Deadline for Camera Ready Submission: October 16 (Friday), 2020, 23:59 AoE<br/>
+Abstract Registration Deadline (extended):  October 1 (Thursday), 2020, 23:59 AoE<br/> 
+Submission Deadline (extended) :  October 1 (Thursday), 2020, 23:59 AoE<br/>
+Notification of Acceptance: October 16 (Friday), 2020, 23:59 AoE<br/>
+Deadline for Camera Ready Submission: October 21 (Friday), 2020, 23:59 AoE<br/>
 Workshop: November 16, 2020<br/>
 
 # <font color="black" size="4"><b> Organizers</b> </font>
